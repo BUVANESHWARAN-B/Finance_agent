@@ -16,8 +16,8 @@ The Finance Assistant is built using a modular architecture, comprising several 
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone 
+    cd Finance_agent
     ```
     (Replace `<repository_url>` with the URL of your GitHub repository and `<repository_name>` with the name of your repository.)
 
